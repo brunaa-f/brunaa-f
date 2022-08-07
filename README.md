@@ -1,7 +1,7 @@
 <h1> Hi! My name is Bruna. </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Fernandes-61dafb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunaa-f/)](https://www.linkedin.com/in/brunaa-f/) 
-[![Gmail Badge](https://img.shields.io/badge/-brunafernandes.idka@gmail.com-61dafb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunafernandes.idka@gmail.com)](mailto:brunafernandes.idka@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Fernandes-61dafb?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/brunaa-f/)](https://www.linkedin.com/in/brunaa-f/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunafernandes.idka@gmail.com-61dafb?style=flat-square&logo=Gmail&logoColor=black&link=mailto:brunafernandes.idka@gmail.com)](mailto:brunafernandes.idka@gmail.com)
 <p>Enthusiast of the best web development technologies.</p>
 
 
