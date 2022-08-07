@@ -1,4 +1,5 @@
 <h1> Hi! My name is Bruna. </h1>
+<p>Enthusiast of the best web development technologies.</p>
 
 
 <div  align="left"> 
