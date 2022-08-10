@@ -1,5 +1,4 @@
 <h1> Hi! </h1>
-
    <a href="https://www.linkedin.com/in/brunaa-f">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
