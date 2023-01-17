@@ -1,7 +1,7 @@
 Hi there  👋!! My name is Bruna  Fernandes, a Software Developer.
 
 -  💻 You may contact me through my [linkedin](https://www.linkedin.com/in/brunaa-f/).
--  🌱 I’m currently learning more about Javascript and C#.
+-  🌱 I’m currently learning more about Javascript and react.
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaa-f&layout=compact&langs_count=7&theme=react" />
 
@@ -22,8 +22,6 @@ Hi there  👋!! My name is Bruna  Fernandes, a Software Developer.
 </div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunaa-f/) 
  
 
 
