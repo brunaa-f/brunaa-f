@@ -1,4 +1,4 @@
-Hi there  👋!! My name is Bruna  Fernandes, a Frontend Developer.
+Hi there  👋!! My name is Bruna  Fernandes, a Software Developer.
 
 -  💻 You may contact me through my [linkedin](https://www.linkedin.com/in/brunaa-f/).
 -  🌱 I’m currently learning more about Javascript and react.
