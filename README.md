@@ -1,7 +1,6 @@
-## Hi there  👋
+## Olá pessoal 👋
 
--  💻 You may contact me through my [linkedIn](https://www.linkedin.com/in/brunaa-f/).
--  🌱 I’m currently learning more about Javascript and C#.
+- 🌱 Atualmente estou aprendendo back-end na cubos academy
 
 
 <div style="display: inline_block"><br>
