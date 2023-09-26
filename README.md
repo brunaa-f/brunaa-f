@@ -9,7 +9,7 @@ Currently, my focus is on studying Node.js and back-end development, as well as 
 
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=brunaa-f&theme=react&hide_border=false&include_all_commits=false&count_private=false"  width="326px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=brunaa-f&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- <img align="right" alt="Cowboy"  height="300" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
+ <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
 
  
