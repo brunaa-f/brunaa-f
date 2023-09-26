@@ -1,7 +1,6 @@
 #  Hi there!🦄
 
 I'm Bruna, a passionate software developer and tech enthusiast. </br>
-I've had the opportunity to work on various exciting projects and explore different technologies.  </br>
 Currently, my focus is on studying Node.js and back-end development, as well as honing my skills in React for front-end development.
 
 ### 💻 Tech Stack
