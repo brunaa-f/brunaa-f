@@ -10,7 +10,7 @@ I've had the opportunity to work on various exciting projects and explore differ
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunaa-f)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=brunaa-f&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="326px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=brunaa-f&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=brunaa-f&theme=react&hide_border=false&include_all_commits=false&count_private=false"  width="326px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=brunaa-f&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
  
