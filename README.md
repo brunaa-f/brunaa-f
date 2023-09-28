@@ -12,7 +12,7 @@
 ```JavaScript
 const bruna = {
 	code: [Javascript, Typescript, HTML, CSS, PostgreSQL],
-	tools: [React, Node, Api Rest || RestFull],<br>
+	tools: [React, Node, Api Rest || RestFull],
 	techCommunities: {
 		speaker: "Portuguese, English",
 		mentor: "Cubos Academy"
