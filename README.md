@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Bruna 🦄 </h1>
-<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Something cool**
+- 🔭 I'm a developer focused on front-end
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -11,7 +10,7 @@
 
 ```JavaScript
 const bruna = {
-	code: [Javascript, Typescript, HTML, CSS, PostgreSQL],
+	code: [Javascript, Typescript, HTML, CSS ],
 	tools: [React, Node, Api Rest || RestFull],
 	techCommunities: {
 		speaker: "Portuguese, English",
