@@ -2,7 +2,7 @@
 
 - 🔭 I'm a developer focused on front-end
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** & **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brunaa-f?tab=repositories](https://github.com/brunaa-f?tab=repositories)
 
