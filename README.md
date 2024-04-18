@@ -11,7 +11,7 @@
 ```JavaScript
 const bruna = {
 	code: [Javascript, Typescript, HTML, CSS ],
-	tools: [React, Node, Api Rest || RestFull],
+	tools: [Angular, React, Node, Api Rest || RestFull],
 	techCommunities: {
 		speaker: "Portuguese, English",
 		mentor: "Cubos Academy, Rocketseat"
