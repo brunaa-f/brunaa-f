@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Bruna 🦄 </h1>
+<h3 align="center"> Hi, I'm Bruna 🦄</h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🔭 I'm a developer focused on front-end
 
-- 🌱 I’m currently learning **ReactJs** & **NodeJs**
+- 🌱 I’m currently learning **Angular** & **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brunaa-f?tab=repositories](https://github.com/brunaa-f?tab=repositories)
 
