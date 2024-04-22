@@ -10,6 +10,7 @@
 
 - <p>More About me! <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
 
+
 ```JavaScript
 const bruna = {
 	code: [Javascript, Typescript, HTML, CSS ],
