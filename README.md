@@ -17,7 +17,7 @@ const bruna = {
 	tools: [Angular, React, Node, Api Rest || RestFull],
 	techCommunities: {
 		speaker: "Portuguese, English",
-		mentor: "Cubos Academy, Rocketseat, Origamid, Academind"
+		mentor: "Cubos Academy, Rocketseat, Origamid"
 	},
 ```
 
