@@ -2,9 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I'm a developer focused on front-end
-
-- 🌱 I’m currently learning **Angular** & **NodeJs**
+- 🔭 I'm a frontend developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/brunaa-f?tab=repositories](https://github.com/brunaa-f?tab=repositories)
 
@@ -17,7 +15,7 @@ const bruna = {
 	tools: [Angular, React, Node, Api Rest || RestFull],
 	techCommunities: {
 		speaker: "Portuguese, English",
-		mentor: "Cubos Academy, Rocketseat, Origamid"
+		mentor: "Cubos Academy, Rocketseat, Origamid, FIAP"
 	},
 ```
 
