@@ -11,8 +11,9 @@
 
 ```JavaScript
 const bruna = {
-	code: [Javascript, Typescript, HTML, CSS(including SCSS) ],
+	code: [Javascript, Typescript, HTML, CSS],
 	tools: [Angular, React, Node, Api Rest || RestFull],
+        styles: ["SCSS", "Tailwind CSS"]
 	techCommunities: {
 		speaker: "Portuguese, English",
 		mentor: "Cubos Academy, Rocketseat, Origamid, FIAP"
