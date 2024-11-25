@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I'm a with a degree in Systems Analysis and Development from PUC and currently pursuing a postgraduate degree in Front-End Engineering at FIAP. I have 2 years of professional experience in development, with the past 8 months focused exclusively on front-end development using Angular. 
+- 🔭 I'm front-end developer with a degree in Systems Analysis and Development from PUC and currently pursuing a postgraduate degree in Front-End Engineering at FIAP. I have 2 years of professional experience in development, with the past 8 months focused exclusively on front-end development using Angular. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/brunaa-f?tab=repositories](https://github.com/brunaa-f?tab=repositories)
 
