@@ -10,7 +10,7 @@
 
 ```JavaScript
 const bruna = {
-	code: [Javascript, Typescript, Node.js, PHP],
+	code: [Javascript, Typescript, Node, PHP],
 	tools: [Angular, React, Vue, Api Rest || RestFull],
     styles: ["SCSS", "Tailwind CSS"]
 	techCommunities: {
