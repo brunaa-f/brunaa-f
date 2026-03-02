@@ -12,10 +12,22 @@
 const bruna = {
 	code: [Javascript, Typescript, Node, PHP],
 	tools: [Angular, React, Vue, Api Rest || RestFull],
-    styles: ["SCSS", "Tailwind CSS"]
-	techCommunities: {
-		speaker: "Portuguese, English",
-		mentor: "IFG, FIAP, Alura, Origamid, Cubos Academy, Rocketseat"
+    styles: ["SCSS", "Tailwind CSS"],
+	education: {
+		languages: ["Portuguese", "English"],
+	    academic: [
+	        "Specialization in Front-End Engineering (FIAP)", 
+	        "Systems Analysis and Development (PUC-GO)",    
+	        "Information Systems (IFG)"                     
+	    ],
+	    certifications: [
+	        "Google (Cybersecurity)",   
+	        "Alura (Accessibility)",     
+	        "Origamid (Front-End/UX)",     
+	        "Cubos Academy (Back-End)",    
+	        "Udemy (Angular)"           
+	    ]
+	}	
 },
 ```
 
