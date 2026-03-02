@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I am a Front-End Developer with a degree in Systems Analysis and Development from PUC and a postgraduate degree in Front-End Engineering from FIAP.
+- 🔭 I am a Front-End Developer with a degree in Systems Analysis and Development from PUC-GO and a Specialization in Front-End Engineering from FIAP.
 
 - 👨‍💻 All of my projects are available at [https://github.com/brunaa-f?tab=repositories](https://github.com/brunaa-f?tab=repositories)
 
