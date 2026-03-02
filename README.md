@@ -15,8 +15,8 @@ const bruna = {
     styles: ["SCSS", "Tailwind CSS"]
 	techCommunities: {
 		speaker: "Portuguese, English",
-		mentor: "Alura, Fiap, Origamid, Cubos Academy, Rocketseat"
-	},
+		mentor: "IFG, FIAP, Alura, Origamid, Cubos Academy, Rocketseat"
+},
 ```
 
 <br>
