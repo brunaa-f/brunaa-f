@@ -12,7 +12,7 @@
 const bruna = {
 	code: [Javascript, Typescript, PHP],
 	tools: [Angular, React, Vue,  Node, Api Rest || RestFull],
-        styles: ["SCSS", "Tailwind CSS"]
+    styles: ["SCSS", "Tailwind CSS"]
 	techCommunities: {
 		speaker: "Portuguese, English",
 		mentor: "Alura, Fiap, Origamid, Cubos Academy, Rocketseat"
